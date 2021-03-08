@@ -27,6 +27,7 @@ public class MusicControlClient implements ClientModInitializer {
     public static boolean random = false;
     public static boolean print = false;
     public static MusicCategory currentCategory = MusicCategory.GAME;
+    public static String currentModCategory;
 
     private static KeyBinding skipMusic;
     private static KeyBinding pauseResume;

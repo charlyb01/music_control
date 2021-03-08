@@ -9,6 +9,7 @@ public enum MusicCategory {
     NETHER (MusicCategories.NETHER),
     END (MusicCategories.END),
     DISC (MusicCategories.DISC),
+    MODS (MusicCategories.MODS),
     ALL (MusicCategories.ALL);
 
     public final Map<Identifier, Integer> musics;
