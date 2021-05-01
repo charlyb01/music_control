@@ -1,0 +1,13 @@
+{
+    "category.music_control.title": "Music Control",
+    "key.music_control.skip":  "Musik selanjutnya (kategori yang sama)",
+    "key.music_control.pause":  "Jeda/Lanjut musik",
+    "key.music_control.category": "Ganti kategori musik",
+    "key.music_control.random": "Pemutar musik acak aktif",
+    "key.music_control.print": "Tampilkan musik yang sedang dimainkan",
+
+    "text.autoconfig.music_control.title": "Pengaturan Music Control",
+    "text.autoconfig.music_control.option.timer": "Waktu diantara dua musik (detik)",
+    "text.autoconfig.music_control.option.print": "Tampilkan teks ketika musik dimainkan",
+    "text.autoconfig.music_control.option.cheat": "Ganti kategori di mode sintas/survival"
+}
